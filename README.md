@@ -1,5 +1,3 @@
 ## Project View
 
-<kbd>![](https://res.cloudinary.com/anshumxn09/image/upload/v1692799526/test/quickSell2_pjyru9.png)</kbd>
-
-<kbd>![](https://res.cloudinary.com/anshumxn09/image/upload/v1692799514/test/quickSell_nycbcs.png)</kbd>
+![image](https://github.com/ashvtosh/Quicksell/assets/54012311/3b9f2aad-8a31-454b-9218-35d7124462a4)
