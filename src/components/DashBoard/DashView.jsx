@@ -7,7 +7,7 @@ import Card from "../Card/Card";
 
 const DashView = () => {
   const { selectedData, user } = useSelector(
-    (state) => state.SelectDataRedgitucer
+    (state) => state.SelectDataReducer
   );
 
   return (
