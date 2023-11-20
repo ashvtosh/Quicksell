@@ -1,0 +1,26 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+.dashContainer {
+    display:flex;
+    align-items: flex-start;
+    gap: 20px;
+    flex-wrap: wrap;
+    background: rgb(248, 248, 249);
+    padding: 20px; /* Increased padding for better spacing */
+  }
+  
+  .dashCardContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Center items horizontally */
+    gap: 10px; /* Increased vertical gap between items */
+    width: 300px;
+    padding: 15px; /* Added padding for each card container */
+    border: 1px solid #ddd; /* Added a border for a card-like appearance */
+    border-radius: 8px; /* Added border radius for a rounded look */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Added a subtle box shadow */
+    background-color: #fff; /* Set a white background color for each card */
+    font-family: 'Roboto', sans-serif;
+  }
